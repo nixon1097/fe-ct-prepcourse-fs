@@ -295,7 +295,7 @@ function continueStatement(num) {
      num = num+2;
      newValor.push(num);
    }
-   return newValor;
+   return newValor;  
 
 }
 
